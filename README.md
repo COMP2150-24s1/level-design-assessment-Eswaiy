@@ -37,7 +37,11 @@ Examples:
 
 ![Connective space](https://github.com/COMP2150-24s1/level-design-assessment-Eswaiy/assets/79948327/40ed106e-2740-4715-8214-4e00612988fb)
 
-(Connective space/moving platform ride: allows for relief & reflection following high intensity encounter)
+(Connective space/moving platform ride: allows for relief & reflection following high intensity encounter
+
+<img width="470" alt="Destructable wall corridor" src="https://github.com/COMP2150-24s1/level-design-assessment-Eswaiy/assets/79948327/217311e8-0569-4593-856e-1befafc4cd3f">
+
+(The series of destructible walls obstructs the path to the next space and prolongs the reveal of the next encounter, creating tension as the player doesn’t know what to expect; they might encounter enemies, health, a resting space, or even a death trap. This uncertainty arising from blocking the player’s field of view as well as prolonging the reveal creates suspense and tension, and finally relief once they have broken through the walls and find there is no danger on the other side)
 
 Moreover, the encounter below puts the player in a position of power, as they are able to kill the multiple enemies ahead of them simultaneously by activating the falling trap above them:
 
